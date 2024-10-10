@@ -1,0 +1,7 @@
+# Ignore all files inside the Dataset/Train and Dataset/Validation directories
+/Dataset/Train_Set/*
+/Dataset/Validation_Set/*
+
+# But don't ignore the Train and Validation directories themselves
+!/Dataset/Train_Set/
+!/Dataset/Validation_Set/
