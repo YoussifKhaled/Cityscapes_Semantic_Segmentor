@@ -1,3 +1,2 @@
 # Ignore all files inside the Dataset/Train and Dataset/Validation directories
-/Dataset/Images/*
-/Dataset/Labels/*
+/Dataset/*
